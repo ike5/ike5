@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I lived in the Amazon
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ike5 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-[appLink]:https://github.com/ike5/SchedulingManagerV2
-[linkedin]:https://www.linkedin.com/in/ike-maldonado/
+[appLink]: https://github.com/ike5/SchedulingManagerV2
+[linkedin]: https://www.linkedin.com/in/ike-maldonado/
+[youtube]: https://www.youtube.com/channel/UCM_QWbs_QJV0DyU_8rbV9zQ

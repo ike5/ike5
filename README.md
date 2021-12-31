@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Ike 👋
 
 <!--
 **ike5/ike5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## A little bit about me
+- 🔭 I’m currently working on a [Scheduling App][appLink]!
+- 🌱 I’m currently learning **Design Patterns**
+- 👯 I’m looking to collaborate on SwiftUI projects
+- 🤔 I’m looking for help with getting an internship
+- 💬 Ask me about my future project ideas
+- 📅 2022 Gaols: Contribute to more OS projects
+- 😄 Pronouns: he/his/him
+- ⚡ Fun fact: I lived in the Amazon
+
+### Connect with me:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[appLink]:https://github.com/ike5/SchedulingManagerV2
+[linkedin]:https://www.linkedin.com/in/ike-maldonado/

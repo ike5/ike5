@@ -92,10 +92,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MacOS_logo.svg/20
 <br>
 <br>
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -107,7 +103,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MacOS_logo.svg/20
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ike5&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ikes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ike5)](https://github.com/anuraghazra/github-readme-stats)
 
 [appLink]: https://github.com/ike5/SchedulingManagerV2
 [linkedin]: https://www.linkedin.com/in/ike-maldonado/

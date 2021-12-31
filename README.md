@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on SwiftUI projects
 - 🤔 I’m looking for help with getting an internship
 - 💬 Ask me about my future project ideas
-- 📅 2022 Gaols: Contribute to more OS projects
+- 📅 2022 Goals: Contribute to more OS projects
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: I lived in the Amazon
 

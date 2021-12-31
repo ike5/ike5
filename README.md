@@ -71,7 +71,7 @@ src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.
 src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" />
 
 <img align="left" alt="Node" width="26px" 
-src="https://img1.pnghut.com/15/21/24/BM3MDgP44m/text-nodejs-javascript-sign-signage.jpg" />
+src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />
 
 
 

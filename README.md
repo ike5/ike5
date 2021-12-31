@@ -46,8 +46,13 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img align="left" alt="Terminal" width="26px" 
-src="https://e7.pngegg.com/pngimages/788/545/png-clipart-ij-logo-with-black-blue-red-and-orange-background-intellij-idea-logo-icons-logos-emojis-tech-companies.png" />
+<img align="left" alt="Intellij" width="26px" 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" />
+
+<img align="left" alt="Java" width="26px" 
+src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
+
+
 
 <br>
 <br>

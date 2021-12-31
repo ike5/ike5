@@ -65,7 +65,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-o
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MacOS_logo.svg/2048px-MacOS_logo.svg.png" />
 
 <img align="left" alt="Python" width="26px" 
-src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" />
+src="https://image.pngaaa.com/282/619282-middle.png" />
 
 <img align="left" alt="Eclipse" width="26px" 
 src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" />

@@ -69,6 +69,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ike5&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Ikes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ike5)](https://github.com/anuraghazra/github-readme-stats)
+
 [appLink]: https://github.com/ike5/SchedulingManagerV2
 [linkedin]: https://www.linkedin.com/in/ike-maldonado/
 [youtube]: https://www.youtube.com/channel/UCM_QWbs_QJV0DyU_8rbV9zQ

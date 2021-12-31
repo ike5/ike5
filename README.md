@@ -62,7 +62,18 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/1
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" />
 
 <img align="left" alt="MacOS" width="26px" 
-src="https://img.favpng.com/20/16/11/ipod-touch-apple-ii-logo-macos-png-favpng-10Qm5iCGYAMQK5Bq3exjG6SDa.jpg" />
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MacOS_logo.svg/2048px-MacOS_logo.svg.png" />
+
+<img align="left" alt="Python" width="26px" 
+src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" />
+
+<img align="left" alt="Eclipse" width="26px" 
+src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" />
+
+<img align="left" alt="Node" width="26px" 
+src="https://img1.pnghut.com/15/21/24/BM3MDgP44m/text-nodejs-javascript-sign-signage.jpg" />
+
+
 
 <br>
 <br>

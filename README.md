@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ike5)](https://github.com/anuraghazra/github-readme-stats)
+[![Ike's GitHub stats](https://github-readme-stats.vercel.app/api?username=ike5&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [appLink]: https://github.com/ike5/SchedulingManagerV2
 [linkedin]: https://www.linkedin.com/in/ike-maldonado/

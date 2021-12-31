@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Junior Developers need Mentors](https://dev.to/ike5/junior-developers-need-mentors-4aei)
 <!-- BLOG-POST-LIST:END -->
 
 

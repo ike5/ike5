@@ -52,7 +52,17 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Ico
 <img align="left" alt="Java" width="26px" 
 src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
 
+<img align="left" alt="Docker" width="26px" 
+src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" />
 
+<img align="left" alt="Fedora" width="26px" 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/1024px-Fedora_logo.svg.png" />
+
+<img align="left" alt="Ubuntu" width="26px" 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" />
+
+<img align="left" alt="MacOS" width="26px" 
+src="https://img.favpng.com/20/16/11/ipod-touch-apple-ii-logo-macos-png-favpng-10Qm5iCGYAMQK5Bq3exjG6SDa.jpg" />
 
 <br>
 <br>

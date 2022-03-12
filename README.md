@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ## A little bit about me
-- 🔭 I’m currently working on a [Scheduling App][appLink]!
+- 🔭 I’m currently working on a Next.js and Strapi app
 - 🌱 I’m currently learning **Design Patterns**
-- 👯 I’m looking to collaborate on SwiftUI projects
-- 🤔 I’m looking for help with getting an internship
+- 👯 I’m looking to collaborate on Unity projects
+- 🤔 I’m looking for help with understanding game design
 - 💬 Ask me about my future project ideas
-- 📅 2022 Goals: Contribute to more OS projects
+- 📅 2022 Goals: Contribute to more open source projects
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: I lived in the Amazon
 

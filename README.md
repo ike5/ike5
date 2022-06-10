@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## A little bit about me
 - 🔭 I’m currently working on a Next.js and Strapi app
 - 🌱 I’m currently learning **Design Patterns**
-- 👯 I’m looking to collaborate on Unity projects
+- 👯 I’m looking to collaborate on React.js and Django apps
 - 🤔 I’m looking for help with understanding game design
 - 💬 Ask me about my future project ideas
 - 📅 2022 Goals: Contribute to more open source projects

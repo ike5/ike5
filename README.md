@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## A little bit about me
-- 🔭 I’m currently working on Vue.js
-- 🌱 I’m currently learning **Design Patterns**
-- 👯 I’m looking to collaborate on React.js and Django apps
+- 🔭 I’m currently working on an Accountability Application.
+- 🌱 I’m currently learning React, Next, and DaisyUI
+- 👯 I’m looking to collaborate on React, Vue, Next, and Nuxt apps.
 - 💬 Ask me about my future project ideas
 - 📅 2022 Goals: Contribute to more open source projects
 - 😄 Pronouns: he/his/him

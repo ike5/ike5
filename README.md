@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## A little bit about me
-- 🔭 I’m currently working on an Accountability Application.
-- 🌱 I’m currently learning React, Next, and DaisyUI
+- 🔭 I’m currently working on an Accountability Application using React and DaisyUI.
+- 🌱 I’m currently learning authentication.
 - 👯 I’m looking to collaborate on React, Vue, Next, and Nuxt apps.
-- 💬 Ask me about my future project ideas
-- 📅 2022 Goals: Contribute to more open source projects
+- 💬 Ask me about my future project ideas.
+- 📅 2023 Goals: Contribute to more open source projects
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: I lived in the Amazon
 

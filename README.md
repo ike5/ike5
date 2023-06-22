@@ -2,24 +2,13 @@
 
 <!--
 **ike5/ike5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ## A little bit about me
-- 🔭 I’m currently working on an Accountability Application using React and DaisyUI.
-- 🌱 I’m currently learning authentication.
-- 👯 I’m looking to collaborate on React, Vue, Next, and Nuxt apps.
-- 💬 Ask me about my future project ideas.
+- 🔭 I’m currently working on an Accountability App using Next.js
+- 🌱 I’m currently learning advanced SQL
+- 👯 I’m looking to collaborate on React, Next.js, Vue, and Nuxt apps
+- 💬 Ask me about my future project ideas
 - 📅 2023 Goals: Contribute to more open source projects
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: I lived in the Amazon

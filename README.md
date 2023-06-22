@@ -5,20 +5,20 @@
 -->
 
 ## A little bit about me
-- 🔭 I’m currently working on an Accountability App using Next.js
-- 🌱 I’m currently learning advanced SQL
-- 👯 I’m looking to collaborate on React, Next.js, Vue, and Nuxt apps
+- I’m currently working on an Accountability App using Next.js
+- I’m currently learning advanced SQL
+- I’m looking to collaborate on React, Next.js, Vue, and Nuxt apps
 - 💬 Ask me about my future project ideas
 - 📅 2023 Goals: Contribute to more open source projects
-- 😄 Pronouns: he/his/him
-- ⚡ Fun fact: I lived in the Amazon
+- Pronouns: he/his/him
+- Fun fact: I lived in the Amazon
 
 
-<!-- ### Connect with me:
+### Connect with me:
 [<img align="left" alt="ike5 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ike5 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="ikemaldonado.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
- -->
+
 <br/>
 
 ## Languages:  
@@ -92,7 +92,5 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MacOS_logo.svg/20
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ike5&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[appLink]: https://github.com/ike5/SchedulingManagerV2
 [linkedin]: https://www.linkedin.com/in/ike-maldonado/
-[youtube]: https://www.youtube.com/channel/UCM_QWbs_QJV0DyU_8rbV9zQ
 [website]: https://www.ikemaldonado.com

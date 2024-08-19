@@ -1,4 +1,4 @@
-### Hi there, my name is Ike 👋
+### My name is Ike 👋
 
 <!--
 **ike5/ike5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

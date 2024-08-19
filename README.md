@@ -5,12 +5,11 @@
 -->
 
 ## A little bit about me
-- I’m currently working on an Accountability App using Next.js
-- I’m currently learning advanced SQL
-- I’m looking to collaborate on React, Next.js, Vue, and Nuxt apps
+- I’m currently working on...ask me!
+- I’m currently learning...
+- I’m looking to collaborate on...
 - 💬 Ask me about my future project ideas
-- 📅 2023 Goals: Contribute to more open source projects
-- Pronouns: he/his/him
+- 📅 2024 Goals: Contribute
 - Fun fact: I lived in the Amazon
 
 

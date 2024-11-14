@@ -13,7 +13,7 @@
 [<img align="left" alt="ike5 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br/>
 
-## Languages:  
+## Technologies:  
 
 <img align="left" alt="Java" width="26px" 
 src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
@@ -29,8 +29,6 @@ src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.
 
 <img align="left" alt="SQL" width="26px" src="https://www.pngitem.com/pimgs/m/197-1973343_sql-database-icon-png-transparent-png.png" />
 
-<img align="left" alt="Docker" width="26px" 
-src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" />
 
 <img align="left" alt="Ubuntu" width="26px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" />

@@ -47,6 +47,7 @@ Software engineer with experience building backend systems, internal tools, and 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Cloud & DevOps**
@@ -68,10 +69,23 @@ Software engineer with experience building backend systems, internal tools, and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ike5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ike5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ike5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ike5&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ike5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" height="180" />
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ike5&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ike5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ike5&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ike5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ike5&theme=tokyonight&hide_border=true&background=0D1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ike5&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=ike5&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</picture>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ike5&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" width="100%" />
 
@@ -83,7 +97,11 @@ Software engineer with experience building backend systems, internal tools, and 
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ike5&theme=tokyonight&no-frame=true&no-bg=true&column=7)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ike5&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ike5&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ike5&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies" />
+</picture>
 
 </div>
 

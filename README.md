@@ -14,7 +14,7 @@
 
 ### About Me
 
-Software engineer with experience building backend systems, internal tools, and cloud-hosted applications. Background in QA, management, systems integration, and cloud infrastructure. Currently building **[Code By Level LLC](https://www.codebylevel.com)** focused on technology that educates.
+Software engineer. Background in systems integration, QA, and management. Established **[Code By Level LLC](https://www.codebylevel.com)** to build technology that educates.
 
 ---
 
